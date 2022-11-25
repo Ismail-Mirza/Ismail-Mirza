@@ -88,7 +88,15 @@
   &emsp; 
   <a href="https://www.tensorflow.org/" target="_blank"> 
    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-  </a>   
+  </a> 
+  &emsp; 
+  <a href="https://www.reactjs.org/" target="_blank"> 
+   <img alt="TensorFlow" src="https://img.shields.io/badge/ReactJs-FF6F00?style=for-the-badge&logo=ReactJs&logoColor=white">
+  </a>
+  &emsp; 
+  <a href="https://django.readthedocs.io/" target="_blank"> 
+   <img alt="Django" src="https://img.shields.io/badge/Django-FF6F00?style=for-the-badge&logo=Django&logoColor=white">
+  </a>
   &emsp;
   <a href="https://scikit-learn.org/" target="_blank">
     <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
