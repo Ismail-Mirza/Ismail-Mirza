@@ -6,16 +6,15 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Ismail-Mirza.svg?style=social&label=Followers)](https://github.com/Ismail-Mirza?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Mohammad+Ismail!;I'm+a+FullStack+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Bangladeshi+BD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Mohammad+Ismail!;I'm+an+undergraduate+student+of+Buet...I'm+a+FullStack+Developer...;I'm+a+Robotics+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Bangladeshi+BD)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Ahmad-shaikh575&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+<img src="https://komarev.com/ghpvc/?username=Ismail-Mirza&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m currently working on Flutter Projects
-- 🌱 I've 8+ months of professional experience worked at 5Gen Solutions and built three cross-platform applications in Flutter
-- 👯 I’m looking to collaborate on Flutter, Machine Learning and Deep Learning Projects
-- 🤔 I’m lalso working as a Freelancer at Upwork and Fiverr.
+- 🔭 I’m currently a full time student at Bangladesh Unviersity of Engineering and Technology
+- 👯 I’m looking to collaborate on FullStack Web Developer, Machine Learning, Deep Learning Projects and also in Robotics Projects
+- 🤔 I’m also robotics instructor in Buet Robotics Society.
 - 💬 Ask me about Programming or Machine Learning
 - 📫 I am also a technical writer at Medium 
 -  📰 Articles: 
