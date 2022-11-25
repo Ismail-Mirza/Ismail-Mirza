@@ -17,20 +17,20 @@
 - 🤔 I’m also robotics instructor in Buet Robotics Society.
 - 💬 Ask me about Programming or Machine Learning
 - 📫 I am also a technical writer at Medium 
--  📰 Articles: 
+<!-- -  📰 Articles: 
 	-	[Build Your Own Generative Adversarial Network (GAN) Using Pytorch](https://pub.towardsai.net/build-your-own-generative-adversarial-network-gan-using-pytorch-c367b8506987) 
-	- [Dog Breed Classifier With PyTorch Using Transfer Learning](https://levelup.gitconnected.com/dog-breed-classifier-with-pytorch-using-transfer-learning-8f15af6f9010)
+	- [Dog Breed Classifier With PyTorch Using Transfer Learning](https://levelup.gitconnected.com/dog-breed-classifier-with-pytorch-using-transfer-learning-8f15af6f9010) -->
 
 <p>Connect with me on
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/ahmadshaikhk/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/ismail-mirza/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="mailto:ahmed.bilal575@gmail.com"
+<a target="_blank" href="mailto:ismail.me.buet@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="https://twitter.com/ahmadshaikhk"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/greyy_lotus"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="https://medium.com/@ahmedbilal575"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
+<!-- <a target="_blank" href="https://medium.com/@ahmedbilal575"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a> -->
 
 
 <br>
@@ -39,21 +39,21 @@
 - ⚡ Fun fact: ... I am batman. 😎🦇 
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ahmad-shaikh575&theme=gruvbox" alt="muhammadfaizanhaidar"  /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ismail-Mirza&theme=gruvbox" alt="muhammadfaizanhaidar"  /></p>
 
 <hr>
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmad-shaikh575&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ahmad-shaikh575&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ismail-Mirza&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ismail-Mirza&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
 <hr>
 
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Ahmad-shaikh575&theme=gruvbox&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Ismail-Mirza&theme=gruvbox&hide_border=true&area=true)
 
 
 
@@ -64,16 +64,20 @@
 <p align="left"> 
   
 
-  <a href="https://dart.dev/">
-    <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <a href="https://gcc.gnu.org/">
+    <img alt="C" src="https://img.shields.io/badge/C-0175C2?style=for-the-badge&logo=c&logoColor=white"/>
+  </a>
+&emsp;
+ <a href="https://gcc.gnu.org/">
+    <img alt="C" src="https://img.shields.io/badge/C++-0175C2?style=for-the-badge&logo=c++&logoColor=white"/>
   </a>
 &emsp;
 <a href="https://python.org/">
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
   </a>
   &emsp;
-<a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<a href="https://js.org">
+    <img alt="Javascript" src="https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white"/>
   </a>
 
 
@@ -81,10 +85,6 @@
 
 ### 👉 Frameworks
 <p align="left"> 
-&emsp;
-  <a href="https://flutter.dev/" target="_blank"> 
-     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-   </a>
   &emsp; 
   <a href="https://www.tensorflow.org/" target="_blank"> 
    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
@@ -147,7 +147,7 @@
     
 </p>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmad-shaikh575&theme=gruvbox" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ismail-Mirza&theme=gruvbox" />
 
 
 <br/>
