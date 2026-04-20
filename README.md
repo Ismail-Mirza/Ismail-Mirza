@@ -25,16 +25,6 @@ Currently building **FlowGenX** — an AI-powered autonomous integration platfor
 ## Featured Project: FlowGenX — AI Autonomous Integration Platform
 
 **FlowGenX** is a production-grade, multi-tenant AI workflow platform — think Zapier meets LangGraph with a visual editor.
-
-### Architecture Highlights
-
-```
-Frontend (Next.js 14) ──► API Gateway ──► Microservices
-                                         ├─ MCP Router (subdomain routing)
-                                         ├─ Workflow Engine (LangGraph)
-                                         ├─ HITL Engine (human approval flows)
-                                         ├─ Runtime Connectivity (100+ connectors)
-                                         └─ Celery Task Queue + Redis
 ```
 
 ### What It Does
