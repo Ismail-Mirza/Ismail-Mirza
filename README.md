@@ -1,4 +1,4 @@
-# Mohammad Ismail — AI Engineer & Full-Stack Developer | Bangladesh
+# Mohammad Ismail — Full Stack AI Engineer | Bangladesh
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Ismail-Mirza&label=Profile+Views&color=brightgreen&style=flat-square)](https://github.com/Ismail-Mirza)
 [![GitHub followers](https://img.shields.io/github/followers/Ismail-Mirza.svg?style=social&label=Followers)](https://github.com/Ismail-Mirza?tab=followers)
