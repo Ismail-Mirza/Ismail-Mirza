@@ -1,167 +1,134 @@
+# Mohammad Ismail — AI Engineer & Full-Stack Developer | Bangladesh
 
-
-### Hi there 👋
-
-<img src="https://profile-counter.glitch.me/Ismail-Mirza/count.svg">
-
+[![Profile Views](https://komarev.com/ghpvc/?username=Ismail-Mirza&label=Profile+Views&color=brightgreen&style=flat-square)](https://github.com/Ismail-Mirza)
 [![GitHub followers](https://img.shields.io/github/followers/Ismail-Mirza.svg?style=social&label=Followers)](https://github.com/Ismail-Mirza?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-mirza/)
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:ismail.buet404@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/greyy_lotus)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Mohammad+Ismail!;I'm+an+undergraduate+student+of+Buet...I'm+a+FullStack+Developer...;I'm+a+Robotics+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Bangladeshi+BD)](https://git.io/typing-svg)
+> **Founding Engineer @ FlowGenX AI** · AI-powered autonomous integration platform builder · Full-Stack Engineer · LangGraph & MCP Specialist · BUET Graduate · Based in Bangladesh
 
-<img src="https://komarev.com/ghpvc/?username=Ismail-Mirza&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+---
 
-<h3> Here's some fun facts about me: </h3>
+## About Me
 
-- 🔭 I’m currently a full time student at Bangladesh Unviersity of Engineering and Technology
-- 👯 I’m looking to collaborate on FullStack Web Developer, Machine Learning, Deep Learning Projects and also in Robotics Projects
-- 🤔 I’m also robotics instructor in Buet Robotics Society.
-- 💬 Ask me about Programming or Machine Learning
-<!-- - 📫 I am also a technical writer at Medium  -->
-<!-- -  📰 Articles: 
-	-	[Build Your Own Generative Adversarial Network (GAN) Using Pytorch](https://pub.towardsai.net/build-your-own-generative-adversarial-network-gan-using-pytorch-c367b8506987) 
-	- [Dog Breed Classifier With PyTorch Using Transfer Learning](https://levelup.gitconnected.com/dog-breed-classifier-with-pytorch-using-transfer-learning-8f15af6f9010) -->
+I'm **Mohammad Ismail**, **Founding Engineer at [FlowGenX AI](https://flowgenx.ai)** and a software engineer from **Bangladesh University of Engineering and Technology (BUET)** specializing in building **enterprise-grade AI automation platforms**. I architect multi-tenant SaaS systems that combine **visual workflow orchestration**, **agentic AI** (LangGraph, LangChain), and **data integration** across 100+ connectors.
 
-<p>Connect with me on
-<br>	
-<a target="_blank" href="https://www.linkedin.com/in/ismail-mirza/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="mailto:ismail.me.buet@gmail.com"
-><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="https://twitter.com/greyy_lotus"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-&emsp;
-<!-- <a target="_blank" href="https://medium.com/@ahmedbilal575"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a> -->
+Currently building **FlowGenX** — an AI-powered autonomous integration platform with a visual workflow editor (70+ node types), real-time execution engine, Human-in-the-Loop (HITL) workflows, and MCP (Model Context Protocol) runtime.
 
+- **Open to**: AI engineering, full-stack development, and agentic AI collaboration
+- **Expertise**: LangGraph agents · FastAPI microservices · Next.js 14 · MCP Protocol · Workflow Orchestration
+- **Location**: Bangladesh · Remote-friendly
 
-<br>
-</p>
-- 😄 Pronouns: ... We/Us
-- ⚡ Fun fact: ... I am batman. 😎🦇 
+---
 
-### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ismail-Mirza&theme=gruvbox" alt="muhammadfaizanhaidar"  /></p>
+## Featured Project: FlowGenX — AI Autonomous Integration Platform
 
-<hr>
+**FlowGenX** is a production-grade, multi-tenant AI workflow platform — think Zapier meets LangGraph with a visual editor.
+
+### Architecture Highlights
+
+```
+Frontend (Next.js 14) ──► API Gateway ──► Microservices
+                                         ├─ MCP Router (subdomain routing)
+                                         ├─ Workflow Engine (LangGraph)
+                                         ├─ HITL Engine (human approval flows)
+                                         ├─ Runtime Connectivity (100+ connectors)
+                                         └─ Celery Task Queue + Redis
+```
+
+### What It Does
+
+- **Visual Workflow Editor**: ReactFlow-based canvas with 70+ node types (AI agents, data transforms, conditionals, loops, HTTP, etc.)
+- **Agentic AI Runtime**: LangGraph-powered agent execution with React, Supervisor, and Swarm patterns
+- **MCP Server Manager**: FastAPI service managing Model Context Protocol servers with a Playground agent for multi-tool orchestration
+- **Code Generation Engine**: Jinja2 templates generate Python/LangGraph code dynamically from workflow JSON
+- **HITL Workflows**: Human-in-the-Loop approval gates with email/webhook callbacks
+- **100+ Data Connectors**: PostgreSQL, MySQL, S3, GCS, Snowflake, REST APIs, and more
+- **Multi-Tenant SaaS**: Full tenant isolation, RBAC, Kong API gateway security, Kubernetes deployment
+
+### Tech Stack
+
+| Layer | Technologies |
+|-------|-------------|
+| Frontend | Next.js 14, React 19, ReactFlow, Redux Toolkit, Tailwind CSS, Chakra UI |
+| AI/Agents | LangGraph, LangChain, OpenAI, MCP 1.9.4+, ChromaDB |
+| Backend | FastAPI, Python 3.11+, Celery, asyncpg |
+| Data | PostgreSQL, Redis, ChromaDB, Airflow |
+| Infra | Docker, Kubernetes, Helm, Kong, Istio, Prometheus, Grafana |
+| Real-Time | Socket.IO, WebSockets, Server-Sent Events |
+
+---
+
+## Skills & Technologies
+
+### Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-0175C2?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### AI & Machine Learning
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+
+### Web Frameworks & Backend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Databases & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+## What I'm Building & Learning
+
+- **LangGraph multi-agent systems** — Supervisor, React, and Swarm orchestration patterns
+- **Model Context Protocol (MCP)** — Building production MCP servers with FastAPI + subdomain routing
+- **AI workflow automation** — Replacing traditional iPaaS tools with autonomous agent pipelines
+- **Kubernetes + Istio** — Service mesh for microservice deployments at scale
+- **Generative AI applications** — RAG pipelines, vector search (ChromaDB), agentic reasoning
+
+---
+
+## GitHub Stats
+
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ismail-Mirza&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ismail-Mirza&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-
-<hr>
-
-
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Ismail-Mirza&theme=gruvbox&hide_border=true&area=true)
-
-
-
-## 🛠️ My Skills
-
-### 👉 Programming languages
-
-<p align="left"> 
-  
-
-  <a href="https://gcc.gnu.org/">
-    <img alt="C" src="https://img.shields.io/badge/C-0175C2?style=for-the-badge&logo=c&logoColor=white"/>
-  </a>
-&emsp;
- <a href="https://gcc.gnu.org/">
-    <img alt="C" src="https://img.shields.io/badge/C++-0175C2?style=for-the-badge&logo=c++&logoColor=white"/>
-  </a>
-&emsp;
-<a href="https://python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-  </a>
-  &emsp;
-<a href="https://js.org">
-    <img alt="Javascript" src="https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white"/>
-  </a>
-
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Ismail-Mirza&show_icons=true&theme=gruvbox&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ismail-Mirza&show_icons=true&layout=compact&theme=gruvbox" alt="Top Languages" width="48%" />
 </p>
 
-### 👉 Frameworks
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.tensorflow.org/" target="_blank"> 
-   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-  </a> 
-  &emsp; 
-  <a href="https://www.reactjs.org/" target="_blank"> 
-   <img alt="TensorFlow" src="https://img.shields.io/badge/ReactJs-FF6F00?style=for-the-badge&logo=ReactJs&logoColor=white">
-  </a>
-  &emsp; 
-  <a href="https://django.readthedocs.io/" target="_blank"> 
-   <img alt="Django" src="https://img.shields.io/badge/Django-FF6F00?style=for-the-badge&logo=Django&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://keras.io/" target="_blank"> 
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://pytorch.org/" target="_blank"> 
-    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-  </a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ismail-Mirza&theme=gruvbox&no-frame=true&row=1" alt="GitHub Trophies" />
 </p>
 
-### 👉 Databases & Cloud Hosting
-<p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
-  &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  &emsp;
-<a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
- </p>
+---
 
- ### 👉 Software & Tools
- 
-<p>
-  &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-&emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
-     &emsp;
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
-     &emsp;
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
-    &emsp;
-     <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
-    &emsp; <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
-    &emsp;
-    
-</p>
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=Ismail-Mirza&theme=gruvbox" />
+## Connect & Collaborate
 
+I'm open to collaborating on:
+- **Agentic AI platforms** — LangGraph, AutoGen, CrewAI-based systems
+- **Full-stack SaaS products** — Next.js + FastAPI + PostgreSQL
+- **AI workflow automation** — replacing manual processes with autonomous agents
+- **Open-source MCP servers** — Model Context Protocol integrations
 
-<br/>
+**Get in touch:**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Ismail-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-mirza/)
+[![Gmail](https://img.shields.io/badge/Gmail-ismail.buet404%40gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ismail.buet404@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%40greyy__lotus-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/greyy_lotus)
 
-<!---
-Ismail-Mirza/Ismail-Mirza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+*"Building the infrastructure for autonomous AI — one workflow at a time."*
+
+<!-- Keywords: Mohammad Ismail BUET Bangladesh Founding Engineer FlowGenX AI Engineer Full Stack Developer LangGraph MCP FastAPI Next.js Workflow Automation Agentic AI FlowGenX AI -->
