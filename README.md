@@ -1,4 +1,4 @@
-# Mohammad Ismail — Full Stack AI Engineer | Bangladesh
+# Mohammad Ismail — I build autonomous AI platforms from Bangladesh
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Ismail-Mirza&label=Profile+Views&color=brightgreen&style=flat-square)](https://github.com/Ismail-Mirza)
 [![GitHub followers](https://img.shields.io/github/followers/Ismail-Mirza.svg?style=social&label=Followers)](https://github.com/Ismail-Mirza?tab=followers)
@@ -22,31 +22,15 @@ Currently building **FlowGenX** — an AI-powered autonomous integration platfor
 
 ---
 
-## Featured Project: FlowGenX — AI Autonomous Integration Platform
+## Featured Project: FlowGenX AI
 
-**FlowGenX** is a production-grade, multi-tenant AI workflow platform — think Zapier meets LangGraph with a visual editor.
-```
+**FlowGenX** is a multi-tenant AI workflow platform — think Zapier meets LangGraph with a visual editor. I'm building it from the ground up as Founding Engineer.
 
-### What It Does
-
-- **Visual Workflow Editor**: ReactFlow-based canvas with 70+ node types (AI agents, data transforms, conditionals, loops, HTTP, etc.)
-- **Agentic AI Runtime**: LangGraph-powered agent execution with React, Supervisor, and Swarm patterns
-- **MCP Server Manager**: FastAPI service managing Model Context Protocol servers with a Playground agent for multi-tool orchestration
-- **Code Generation Engine**: Jinja2 templates generate Python/LangGraph code dynamically from workflow JSON
-- **HITL Workflows**: Human-in-the-Loop approval gates with email/webhook callbacks
-- **100+ Data Connectors**: PostgreSQL, MySQL, S3, GCS, Snowflake, REST APIs, and more
-- **Multi-Tenant SaaS**: Full tenant isolation, RBAC, Kong API gateway security, Kubernetes deployment
-
-### Tech Stack
-
-| Layer | Technologies |
-|-------|-------------|
-| Frontend | Next.js 14, React 19, ReactFlow, Redux Toolkit, Tailwind CSS, Chakra UI |
-| AI/Agents | LangGraph, LangChain, OpenAI, MCP 1.9.4+, ChromaDB |
-| Backend | FastAPI, Python 3.11+, Celery, asyncpg |
-| Data | PostgreSQL, Redis, ChromaDB, Airflow |
-| Infra | Docker, Kubernetes, Helm, Kong, Istio, Prometheus, Grafana |
-| Real-Time | Socket.IO, WebSockets, Server-Sent Events |
+- Built a visual workflow canvas with 70+ node types — AI agents, data transforms, conditionals, HTTP calls, and more
+- Ships with LangGraph-powered agents (React, Supervisor, Swarm) and a full MCP server runtime
+- Connects to 100+ data sources out of the box — databases, cloud storage, REST APIs
+- Includes Human-in-the-Loop approval flows and real-time execution monitoring
+- Deployed on Kubernetes with multi-tenant isolation and Kong API gateway
 
 ---
 
